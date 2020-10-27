@@ -67,7 +67,7 @@ footer {
 }
 
 footer::after {
-    content: "Feito com ♥️ por Mayk Brito";
+    content: "Feito com ♥️";
     opacity: 0.6;
     font-size: 0.8rem;
 }
